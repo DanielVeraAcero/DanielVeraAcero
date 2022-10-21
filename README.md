@@ -1,5 +1,5 @@
 <h1 align="center">Daniel Vera Acero</h1>
-<h3 align="center">Hola! <img src="./images/Hi.gif" width="30" height="30"></h3>
+<h3 align="center">Hola!</h3>
 
 <div align="center">
   Soy desarrollador web frontend e ingeniero mecánico con énfasis en automatización; con experiencia en tecnologías/lenguajes como HTML, CSS, JavaScript, Git. Me considero una persona comprometida con mi trabajo y aprendizaje con capacidades y aptitudes para el trabajo en equipo, con dominio en metodologías agiles y herramientas para el trabajo, además de habilidades para planear, desarrollar e implementar. Soy un profesional proactivo, con buenas relaciones interpersonales y alta motivación por aprender.
